@@ -1,0 +1,14 @@
+#include<iostream>
+using namespace std;
+
+int add(int a,int b)
+{
+	res=a+b;
+	cout<<"Addition of two nos is: "<<res;
+}
+int main()
+{
+	int a,b,res=0;
+	cin>>a>>b;
+	return 0;
+}
